@@ -1,32 +1,34 @@
 Package: tk.nabdev.colorcustomizer
-Name: ColorCustomizer
-Architecture: iphoneos-arm
-Description: Change every color on your phone!
-Icon: https://cdn.nabdev.tk/TweakIcons/ColorCustomizer.png
-Maintainer: Nicholas
-Author: Nicholas
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
 Version: 0.1.2-1+debug
-Installed-Size: 752
-Filename: debs/tk.nabdev.notesnotdescription_1.1.1-1+debug_iphoneos-arm.deb
-MD5sum: SHA1: 44502fefb57133ec0b1e748606cd678f0cdc5c72
-SHA256: 15df7f66f9b8f2a33f06bfabcbb23dc5c5a47ee50170a38554b5a03465a52239
-Size: 45790
-
-Package: tk.nabdev.colorcustomizer
-Name: ColorCustomizer
 Architecture: iphoneos-arm
-Description: Change every color on your phone!
-Icon: https://cdn.nabdev.tk/TweakIcons/ColorCustomizer.png
 Maintainer: Nicholas
-Author: Nicholas
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Version: 0.1.2-1+debug
 Installed-Size: 752
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
 Filename: debs/tk.nabdev.colorcustomizer_0.1.2-1+debug_iphoneos-arm.deb
-MD5sum: SHA1: dc885a1cc935486521613ae3675083f61d365c8b
-SHA256: 1e99c5c1aa1cbbb58560f3fa5f4068066493319e21879b56730e1756af191979
 Size: 418034
+MD5sum: 34e94c48ec037594b208aa311c98a4c0
+SHA1: dc885a1cc935486521613ae3675083f61d365c8b
+SHA256: 1e99c5c1aa1cbbb58560f3fa5f4068066493319e21879b56730e1756af191979
+Section: Tweaks
+Description: Change every color on your phone!
+Author: Nicholas
+Icon: https://cdn.nabdev.tk/TweakIcons/ColorCustomizer.png
+Name: ColorCustomizer
+
+Package: tk.nabdev.notesnotdescription
+Version: 1.1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Nicholas
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/tk.nabdev.notesnotdescription_1.1.1-1+debug_iphoneos-arm.deb
+Size: 45790
+MD5sum: 06b411791742b422259962213a7c1616
+SHA1: 44502fefb57133ec0b1e748606cd678f0cdc5c72
+SHA256: 15df7f66f9b8f2a33f06bfabcbb23dc5c5a47ee50170a38554b5a03465a52239
+Section: Tweaks
+Description: Replace the "Add description" field in Google Calander with "Notes"
+Author: Nicholas
+Icon: https://cdn.nabdev.tk/TweakIcons/NotesNotDescription.png
+Name: NotesNotDescription
 
