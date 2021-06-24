@@ -1,0 +1,32 @@
+Package: tk.nabdev.colorcustomizer
+Name: ColorCustomizer
+Architecture: iphoneos-arm
+Description: Change every color on your phone!
+Icon: https://cdn.nabdev.tk/TweakIcons/ColorCustomizer.png
+Maintainer: Nicholas
+Author: Nicholas
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Version: 0.1.2-1+debug
+Installed-Size: 752
+Filename: debs/tk.nabdev.notesnotdescription_1.1.1-1+debug_iphoneos-arm.deb
+MD5sum: SHA1: 44502fefb57133ec0b1e748606cd678f0cdc5c72
+SHA256: 15df7f66f9b8f2a33f06bfabcbb23dc5c5a47ee50170a38554b5a03465a52239
+Size: 45790
+
+Package: tk.nabdev.colorcustomizer
+Name: ColorCustomizer
+Architecture: iphoneos-arm
+Description: Change every color on your phone!
+Icon: https://cdn.nabdev.tk/TweakIcons/ColorCustomizer.png
+Maintainer: Nicholas
+Author: Nicholas
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Version: 0.1.2-1+debug
+Installed-Size: 752
+Filename: debs/tk.nabdev.colorcustomizer_0.1.2-1+debug_iphoneos-arm.deb
+MD5sum: SHA1: dc885a1cc935486521613ae3675083f61d365c8b
+SHA256: 1e99c5c1aa1cbbb58560f3fa5f4068066493319e21879b56730e1756af191979
+Size: 418034
+
